@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronousSockets", "SynchronousSockets\SynchronousSockets.csproj", "{96A72762-C004-46AF-B4F1-9FA053FEEFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronousServerSocket", "SynchronousServerSocket\SynchronousServerSocket.csproj", "{129A9AD7-8515-40FA-BD67-59CEF389893E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A72762-C004-46AF-B4F1-9FA053FEEFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A72762-C004-46AF-B4F1-9FA053FEEFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A72762-C004-46AF-B4F1-9FA053FEEFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A72762-C004-46AF-B4F1-9FA053FEEFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129A9AD7-8515-40FA-BD67-59CEF389893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129A9AD7-8515-40FA-BD67-59CEF389893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129A9AD7-8515-40FA-BD67-59CEF389893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129A9AD7-8515-40FA-BD67-59CEF389893E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3D53BB0-1457-4E3F-8C19-C44812629327}
+	EndGlobalSection
+EndGlobal
